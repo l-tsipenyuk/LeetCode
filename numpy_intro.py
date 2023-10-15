@@ -35,3 +35,12 @@ import numpy as np
 # new_arr = arr.flatten()
 # print(new_arr)
 
+# Replacing elements:
+
+# arr_1 = np.array([12, 56, 78, 65, 1, 5])
+# Copying array
+# arr_2 = arr_1.copy()
+
+# Replacing elements
+# arr_2[0] = 11
+# arr_2[3] = 0
